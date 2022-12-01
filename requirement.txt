@@ -1,0 +1,1 @@
+The above file need installation of virtual enviroment in python. Afterward there are several libs that also need to be install: python-dateutil, pyodbc, pandas, sqlalchemy, psycopg2
